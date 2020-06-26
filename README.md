@@ -63,6 +63,8 @@ Grammar covers the following:
     - Tokens (Lexemes)
     - Transition table
     - First and follow sets
+    - Parsing table
+    - Parsing tree
     
 <p align="center"> 
 <img src="https://user-images.githubusercontent.com/48100957/85892081-92bb3d80-b7f0-11ea-9c57-83993b690eb0.png">
