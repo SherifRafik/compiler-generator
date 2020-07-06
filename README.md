@@ -45,7 +45,7 @@ Grammar covers the following:
   
 ---
   
-## Project_flow <a name = "project_flow"></a>
+## Project Diagram <a name = "project_flow"></a>
 <p align="center"> 
 <img src="https://user-images.githubusercontent.com/48100957/85888110-3c96cc00-b7e9-11ea-9754-cb42c36a30c3.png">
 </p>
