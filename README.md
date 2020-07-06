@@ -5,7 +5,7 @@ A compiler translates and/or compiles a program written in a suitable source lan
 
 ## 📝 Table of Contents
 - [About](#about)
-- [Project flow](#project_flow)
+- [Project diagram](#project_diagram)
 - [Prerequisites](#prerequisites)
 - [Sample runs](#sample_runs)
 
@@ -45,7 +45,7 @@ Grammar covers the following:
   
 ---
   
-## Project Diagram <a name = "project_flow"></a>
+## Project Diagram <a name = "project_diagram"></a>
 <p align="center"> 
 <img src="https://user-images.githubusercontent.com/48100957/85888110-3c96cc00-b7e9-11ea-9754-cb42c36a30c3.png">
 </p>
